@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  
 Execute `npm install` na pasta raiz do projeto.
 
-## Development server
+## Angular
 
 Execute `npm run start` para subir o projeto na porta 4200, ou `http://localhost:4200`. É necessário subir o angular para rodar os testes e2e.
 
